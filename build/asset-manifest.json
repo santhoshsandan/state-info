@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/santhoshsandan/nes.git/static/css/main.5f6d0da6.css",
+    "main.js": "/santhoshsandan/nes.git/static/js/main.3dc6df9d.js",
+    "static/js/787.bbe01249.chunk.js": "/santhoshsandan/nes.git/static/js/787.bbe01249.chunk.js",
+    "index.html": "/santhoshsandan/nes.git/index.html",
+    "main.5f6d0da6.css.map": "/santhoshsandan/nes.git/static/css/main.5f6d0da6.css.map",
+    "main.3dc6df9d.js.map": "/santhoshsandan/nes.git/static/js/main.3dc6df9d.js.map",
+    "787.bbe01249.chunk.js.map": "/santhoshsandan/nes.git/static/js/787.bbe01249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f6d0da6.css",
+    "static/js/main.3dc6df9d.js"
+  ]
+}
